@@ -1,0 +1,18 @@
+.menu {
+  display: flex;
+  justify-content: space-between;
+  background-color: beige;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: beige;
+}
+.origami {
+  border-radius: 20px;
+  background-color: white;
+
+  width: 310px;
+  font-family: fantasy;
+  background-color: beige;
+}
